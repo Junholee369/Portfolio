@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,
+MaterialCostPerSquareFoot,LaborCostPerSquareFoot,TotalMaterialCost,TotalLaborCost,TotalTax,Total
