@@ -20,6 +20,13 @@ Portfolio of some of the projects I have worked on
 > GuessTheNumber
 > * A Program for a game that generates 4 random digit number, and the user has to guesses 4 numbers, with exact match on both digits and position.
 >   
+> Poker
+> * A Game of Texas Hold'em
+> -incomplete-
+>
+> PokerCards
+> * A Program that prints a deck of card that's been shuffled.
+>
 > RockPaperScissors
 > * Just a simple game of rock paper scissors 
 >
