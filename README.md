@@ -39,5 +39,7 @@ Portfolio of some of the projects I have worked on
 >
 > SuperHeroSighting
 > * A website that allows the user to record the sighting of the superhero/villans around the world.
-> * -incomplete-
+>   * The user should be able to add, delete, edit the information on any super hero/villan.
+>   * Used MySQL to keep and edit all the data.
+>   
 >
